@@ -1,6 +1,6 @@
 ## Olá eu me chamo Enzo tenho 14 anos e estou estudando programação na DIO
 
-## Entre em contato com migo
+## Entre em contato comigo
 [![Meu perfil na DIO](https://img.shields.io/badge/-Perfil%20da%20DIO-30A3DC?style=for-the-badge)](https://www.dio.me/users/enzop7829)
 ### Discord --> enzofdg
 
